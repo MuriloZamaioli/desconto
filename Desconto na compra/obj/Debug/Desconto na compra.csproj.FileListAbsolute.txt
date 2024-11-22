@@ -1,0 +1,7 @@
+C:\Users\murilo.lpzamaioli\source\repos\exercicio tratamento de exceção\Desconto na compra\bin\Debug\Desconto na compra.exe.config
+C:\Users\murilo.lpzamaioli\source\repos\exercicio tratamento de exceção\Desconto na compra\bin\Debug\Desconto na compra.exe
+C:\Users\murilo.lpzamaioli\source\repos\exercicio tratamento de exceção\Desconto na compra\bin\Debug\Desconto na compra.pdb
+C:\Users\murilo.lpzamaioli\source\repos\exercicio tratamento de exceção\Desconto na compra\obj\Debug\Desconto na compra.csproj.AssemblyReference.cache
+C:\Users\murilo.lpzamaioli\source\repos\exercicio tratamento de exceção\Desconto na compra\obj\Debug\Desconto na compra.csproj.CoreCompileInputs.cache
+C:\Users\murilo.lpzamaioli\source\repos\exercicio tratamento de exceção\Desconto na compra\obj\Debug\Desconto na compra.exe
+C:\Users\murilo.lpzamaioli\source\repos\exercicio tratamento de exceção\Desconto na compra\obj\Debug\Desconto na compra.pdb
